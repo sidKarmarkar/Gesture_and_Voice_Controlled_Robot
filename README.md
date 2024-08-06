@@ -32,21 +32,3 @@ The NodeMCU code is located in `Code/NodeMCU_Code.ino`.
 ### Python Code
 
 The Python code for gesture recognition is located in `Code/Python_Code.py`.
-
-## Documentation
-
-The full project report can be found in `Documentation/Report.pdf`.
-
-## Authors
-
-- Govind Kishore (20BEE0210)
-- Siddharth Karmarkar (20BEE0212)
-- Arihant Singh Samyal (20BEE0358)
-
-## Acknowledgments
-
-We extend our sincere gratitude to Dr. Vinodh Kumar E, our professor-in-charge, whose guidance and valuable insights guided us through the intricacies of robotics and technology.
-
-## License
-
-This project is licensed under the MIT License.
