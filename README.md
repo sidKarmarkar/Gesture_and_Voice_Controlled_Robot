@@ -27,8 +27,8 @@ This project integrates voice recognition and gesture control mechanisms to crea
 
 ### NodeMCU Code
 
-The NodeMCU code is located in `Code/NodeMCU_Code.ino`.
+The NodeMCU code is located in `Code/Node_MCU.ino`.
 
 ### Python Code
 
-The Python code for gesture recognition is located in `Code/Python_Code.py`.
+The Python code for gesture recognition is located in `Code/Python.py`.
